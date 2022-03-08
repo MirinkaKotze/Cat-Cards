@@ -1,0 +1,8 @@
+.search-container__elem {
+  background-color: transparent;
+}
+
+.search-container__btn {
+    background-color: rgba(21, 199, 223, 0.158);
+    height: 50px;
+}

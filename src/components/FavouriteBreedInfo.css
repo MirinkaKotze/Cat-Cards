@@ -1,0 +1,33 @@
+.fav-breed__container {
+  background-color: rgb(29, 164, 182);
+  /* width:75%; */
+  margin: 10px;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.fav-breed__title {
+  /* text-align: center; */
+  font-size: 25px;
+  color: blue;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+.fav-breed__discription {
+  padding-left: 10px;
+  font-size: 10px;
+}
+
+.fav-breed__button {
+  background-color: yellow;
+  border: solid 2px yellow;
+  border-radius: 10px;
+  padding: 5px 10px 5px 10px;
+  
+
+}

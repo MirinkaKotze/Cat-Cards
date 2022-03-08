@@ -1,0 +1,12 @@
+.green-container {
+  display: flex;
+  flex-direction: column;
+  /* width: 50%; */
+  /* height: 80vh; */
+  background-color: #e1f38d;
+  margin: 15px;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  background-color: rgba(0, 128, 0, 0.247);
+}

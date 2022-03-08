@@ -1,0 +1,16 @@
+.bread-info-card {
+  background-color: 17rgba (21, 199, 223, 0.158);
+  /* width: 75%; */
+  /* height: 100px; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+}
+
+.btn {
+  background-color: yellow;
+  padding: 10px;
+  text-align: center;
+}

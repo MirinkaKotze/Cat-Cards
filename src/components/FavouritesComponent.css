@@ -1,0 +1,10 @@
+.favourites__container {
+  background-color: rgb(243, 243, 191);
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.favourtes__title {
+    text-align: center;
+}
